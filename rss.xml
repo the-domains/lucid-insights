@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lucid Insights]]></title>
+        <description><![CDATA[Lucid Insights]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 01:51:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Analytics is so much more than just a chart depicting the trend in some data.</p>]]></description>
+            <link>undefinedanalytics-is-so-much-more-than-just-a-chart-depicting-the-tr/index.html</link>
+            <guid isPermaLink="false">518e93de-e689-498d-b5d6-fc14271006d4</guid>
+            <pubDate>Fri, 05 Aug 2016 01:50:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
